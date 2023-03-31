@@ -1,6 +1,6 @@
 Name:		texlive-biblatex-anonymous
 Version:	48548
-Release:	1
+Release:	2
 Summary:	A tool to manage anonymous work with BibLaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-anonymous
