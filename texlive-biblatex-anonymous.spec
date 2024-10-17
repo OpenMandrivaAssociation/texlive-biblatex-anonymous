@@ -3,7 +3,7 @@ Version:	48548
 Release:	2
 Summary:	A tool to manage anonymous work with BibLaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-anonymous
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-anonymous
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/biblatex-anonymous.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/biblatex-anonymous.doc.r%{version}.tar.xz
